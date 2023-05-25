@@ -1,6 +1,6 @@
 # Solving-Sudoku
 
-This project uses node basedstack and 2D array to write a stack-based solver for the Sudoku game that implements a depth-first search algorithm. Using the solver, I explored how the number of starting values provided affects the complexity of the search for a solution.
+This project uses node based stack and 2D array to write a stack-based solver for the Sudoku game that implements a depth-first search algorithm. Using the solver, I explored how the number of starting values provided affects the complexity of the search for a solution.
 
 The result is a graphic display version of the Sudoku game which chooses a predetermined number of random starting values, displays the solver’s solving
 process, and shows its final condition onto the screen.
